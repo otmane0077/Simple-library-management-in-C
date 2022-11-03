@@ -1,0 +1,11 @@
+livre num  1 : 
+ ID du livre : 1
+ -- Titre du livre: 1
+ -- le nom auteur: 1
+  -- la date : 1/1/2000
+ livre num  2 : 
+ ID du livre : 2
+ -- Titre du livre: 2
+ -- le nom auteur: 2
+  -- la date : 2/2/2009
+ 
